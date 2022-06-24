@@ -2,7 +2,7 @@
 
 
 ## Overview
-The goal of this project is to investigate the Covid 19 data worldwide. Clean and assess the data to find trends.
+The goal of this project is to investigate the Covid 19 data worldwide, Clean and assess the data to find trends.
 
 
 ## Notes:
